@@ -1,5 +1,4 @@
-SESSION-1
-                                                                          ASSIGNMENT 1
+SESSION-1 ASSIGNMENT 1
 1. Say True or False for the below statements:
 • Prescriptive Analytics used to predict the future outcomes?
  False
